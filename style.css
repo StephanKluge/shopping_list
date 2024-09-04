@@ -130,13 +130,15 @@ li {
     text-decoration: none;
     font-size: 2rem;
     font-weight: 400;
+    display: flex;
+ 
 
 }
 li button {
     font-family: 'Saira Condensed', Georgia, Times, 'Times New Roman', serif;
     font-weight: 700;
     font-size: 16px;
-    margin-left: 20px;
+    margin-left: 50px;
     color: black;
     border-radius: 5px;
     -webkit-border-radius: 5px;
